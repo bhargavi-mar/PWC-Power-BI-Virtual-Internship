@@ -11,11 +11,10 @@ I developed a "Customer Churn Analysis" Dashboard to assist the Telecommunicatio
 ## Task 3: Diversity & Inclusion Dashboard
 I also created a "Diversity & Inclusion" Dashboard for a telecom client partnering with PwC Switzerland. The dashboard tracks KPIs related to hiring, promotion, performance, and turnover, aiming to foster a more inclusive and balanced work environment.
 
-During this program, I strengthened my Power BI skills to better understand clients and their data visualization needs:
+## During this program, I strengthened my Power BI skills to better understand clients and their data visualization needs:
 
-- Explored Power BI intricacies, mastering advanced visualization techniques.
+- Explored Power BI and, mastering advanced visualization techniques.
 - Applied theoretical knowledge to real datasets, refining analytical skills.
 - Learned to extract actionable insights from complex data, driving strategic decision-making.
 - Developed creative solutions to data challenges, fostering innovative thinking.
 - Acquired skills in conveying insights clearly and persuasively, enhancing communication effectiveness.
-- Positioned for success with practical skills applicable across industries.
